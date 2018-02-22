@@ -7,5 +7,7 @@ package com.fepeprog.viewpagers;
 public class FragmentRecyclerView {
     int m = 5;
 
+
+    something else
     do commitu
 }
